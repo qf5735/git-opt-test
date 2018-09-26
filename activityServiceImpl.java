@@ -7,5 +7,3 @@ add func2
     home.addCategory(Intent.CATEGORY_HOME);
     startActivity(home);
 }
-
-add func3
