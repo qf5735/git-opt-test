@@ -12,3 +12,4 @@ add functions2()
    code conclick5();
 
 add test1();
+add test2();
