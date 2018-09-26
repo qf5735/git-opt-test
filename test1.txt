@@ -7,5 +7,3 @@ add functions()
 add functions2()
 
  code conclick1();
-
- code conclick4();
