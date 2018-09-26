@@ -4,3 +4,5 @@ public void onBackPressed() {
     home.addCategory(Intent.CATEGORY_HOME);
     startActivity(home);
 }
+
+add func3
