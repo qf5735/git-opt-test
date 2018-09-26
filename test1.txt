@@ -1,2 +1,5 @@
-hello world!
+﻿hello world!
  我都被修改了
+
+
+add functions()
